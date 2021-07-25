@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+/* google fonts jost in action  */
+*,body{
+  font-family: 'jost', sans-serif
+}
+
+.App { 
+  text-align: center;
+}
+.slider-caption{
+  position: absolute;
+  right: 15%;
+  bottom: 50%;
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+}
+.fonting{
+  font-family: Cinzel, serif;
+  font-size: 35px;
+  
+
+}
+.containing{
+  padding: 10%;
+  background-color: #FEF6ED;
+}
+
+.visiting{
+  color: #212529ce;
+}
+.container-caption{
+  position: absolute;
+  right: 15%;
+  bottom: 50%;
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.images{
+  height: 600px!important;
+  
+}
+
+.linking{
+  text-decoration: none;
+  color: #C4A6A6;
+  font-size: 14px
+}
+.Logo{
+flex-basis: auto;
+width: 50%;
+justify-items: center;
+
+}
+.subscribe-header{
+  font-size: 30px;
+  margin: 4%;
+  font-weight: 700;
+}
+
+.input-field{
+  margin: 0 25% 0  25%;
+  padding-bottom: 2rem!important;
+  padding-top: 2rem!important;
+}
+.subscribe-btn{
+  background-color: #000000;
+  padding: 15%;
+  color: white;
+  margin: 6%;
+  text-decoration: none!important;
+
+}
+
+.hr-styles{
+  background-color: #000000!important;
+  color: #000000!Important;
+
+}
+.footer-icons{
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+.footer-icon{
+  flex-basis: 2%;
+  margin: 1%;
+  width: 500%
+}
+
+.inner-values{
+  justify-content: center;
+  align-items: center;
+  
+}
+.contact-image{
+  background-image: url(./Component//assets/Image/third.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200%;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.755);
+  padding: 10%;
+
+
+}
+
+.justifying{
+  justify-content: center;
+  font-size: 20px;
+ 
+}
+
+.about-container{
+  padding: 5% 5%;
+}
+.breadcrumbs{
+  display: flex;
+  flex-wrap: wrap;
+  padding: .75rem 1rem;
+  list-style: none;
+  color: white;
+  
+}
+.about-image{
+  background-image: url(./Component//assets/Image/female.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200%;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.755);
+  padding: 10%;
+
+
+}
+.gallery-image{
+  background-image: url(./Component//assets/Image/fourth.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200%;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.755);
+  padding: 10%;
+
+
+}
+.contact-header{
+  font-size: 50px;
+  /* font-family: Cinzel; */
+  font-weight:700;
+  color: #fff;
+}
+.vertical-contact{
+  border: 4px solid white;
+}
+.inner-images{
+  width: 15%;
+  margin-left: 40%;
+}
+.contact-main{
+  margin-top: 10%;
+  margin-bottom: 10%;
+
+}
+.contact-info{
+  padding: 4%
+}
+.contact-row{
+  box-shadow: 5px 5px 10px 5px #3E3E3E
+}
+.progress-bars{
+  box-shadow: 2px 2px 6px 2px #3e3e3e80;
+  height: 100%;
+  /* margin: 1px; */
+
+}
+.input-controls{
+  display: block;
+  width: 70%;
+  height: calc(3.5em + .75rem + 2px);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.form-inner{
+  padding-left: 10%;
+}
+  .routeContainer{
+    display: flex;
+    flex-flow: row nowrap;
+justify-content: flex-end; 
+flex-shrink: 3;
+  }
+
+  .contact-btn{
+    background: black;
+    color: white;
+    padding: 3%;
+  }
+  .gallery-images-text{
+    font-weight: 700;
+    font-size: 15px;
+  }
+
+.App-logo {
+  height: 8vmin;
+  text-align: center;
+  padding: 4px;
+  font-weight: 700;
+  font-family: jost Arial, Helvetica, sans-serif;
+  line-height: 32px;
+  width: auto;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+ 
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+ 
+}
+
+.App-link {
+  color: #61dafb;
+}
+Link{
+  color: #000000;
+}
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

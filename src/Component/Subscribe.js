@@ -5,8 +5,8 @@ function Subscribe() {
     <div>
       <div className="sub_wrapper container my-5 text-center py-5">
         <div className="">
+          <h1 style={{fontSize: "30px"}} className="fw-bold mb-4">Subscribe</h1>
           <p className="text-dark mb-3">
-            {" "}
             SIGN UP WITH YOUR EMAIL ADDRESS TO RECEIVE NEWS AND UPDATES
           </p>
           <form action="">

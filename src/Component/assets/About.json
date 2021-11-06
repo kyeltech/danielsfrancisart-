@@ -1,0 +1,36 @@
+
+
+[{
+    "id" : "dfwefck",
+    "image": "./Image/girl.jpg",
+    "description": "PRINT   ",
+    "price":100.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing"
+}, {
+    "id": "edcercf",
+    "image": "./Image/fourth.jpg",
+    "description": "GALLERY",
+    "price":50.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing" 
+}, {
+    "id" :  "defefe",
+    "image": "./Image/shade.jpg",
+    "description": " OTHER ARTIST",
+    "price":100.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing"
+}]

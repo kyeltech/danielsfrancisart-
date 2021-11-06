@@ -1,0 +1,93 @@
+[{
+    "id":{
+        "$oid": "1"
+    },
+    "image": "./Image/girl.jpg",
+    "description": "THE MACHINE MAN 4 , PENCIL DRAWING ON PAPER, 2019.",
+    "price":100.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing"
+}, {
+    "id":{
+        "$oid": "2"
+    },
+    "image": "./Image/fourth.jpg",
+    "description": "THE MACHINE girl 4 , lorem ipsum",
+    "price":50.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing" 
+}, {
+    "id":{
+        "$oid": "3"
+    },
+    "image": "./Image/hair.jpg",
+    "description": "THE MACHINE MAN 4 , PENCIL DRAWING ON PAPER, 2019.",
+    "price":100.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing"
+}, {
+    "id":{
+        "$oid": "4"
+    },
+    "image": "./Image/girl.jpg",
+    "description": "THE MACHINE MAN 4 , PENCIL DRAWING ON PAPER, 2019.",
+    "price":100.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing"
+}, {
+    "id":{
+        "$oid": "5"
+    },
+    "image": "./Image/girl.jpg",
+    "description": "THE MACHINE MAN 4 , PENCIL DRAWING ON PAPER, 2019.",
+    "price":100.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing"
+}, {
+    "id":{
+        "$oid": "6"
+    },
+    "image": "./Image/girl.jpg",
+    "description": "THE MACHINE MAN 4 , PENCIL DRAWING ON PAPER, 2019.",
+    "price":100.000,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing"
+}, {
+    "id":{
+        "$oid": "7"
+    },
+    "image": "./Image/girl.jpg",
+    "description": "THE MACHINE MAN 4 , PENCIL DRAWING ON PAPER, 2019.",
+    "price":100.00,
+    "year_created": 2020,
+    "frame_size": "70 x 100mm",
+    "name": "Graphics on the wall",
+    "quantity": "limited edition",
+    "size": "medium",
+    "equipnment_used" : "pencil drawing",
+    "isFeatured": true
+}]
